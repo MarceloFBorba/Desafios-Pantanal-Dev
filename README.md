@@ -7,4 +7,6 @@ Aulas ministradas pelos professores especializados da UFMS. Com foco na compleme
 
 Detecção de Fraude; Introdução a Mineração de Dados; Pré-Processamento e Transformação de Dados; Visualização dos Dados; Revisão de Aprendizado de Máquina;  Agrupamento de Dados;  Avaliação de Algoritmos de Agrupamento de Dados.
 
-# Atividade 1: Aplicação das técnicas de amostragem vistas em aula (Over/Under-Sampling, SMOTE, Borderline-SMOTE e ADASYN) e avaliar o impacto na base de dados do detecção de fraudes em cartões de créditos com o algoritmo de classificação 3-NN.
+Atividade 1: 
+
+Aplicação das técnicas de amostragem vistas em aula (Over/Under-Sampling, SMOTE, Borderline-SMOTE e ADASYN) e avaliar o impacto na base de dados do detecção de fraudes em cartões de créditos com o algoritmo de classificação 3-NN.
