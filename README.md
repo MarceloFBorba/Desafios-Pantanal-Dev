@@ -1,12 +1,14 @@
-# Desafios-Pantanal.Dev
+# Aplicando Tecnicas de Amostragens 
+
+Aplicação das técnicas de amostragem (Over/Under-Sampling, SMOTE, Borderline-SMOTE e ADASYN) e avaliar o impacto na base de dados do detecção de fraudes em cartões de créditos com o algoritmo de classificação 3-NN.
+
+### Desafios Pantanal.Dev
 
 Pantanal.dev é um programa de capacitação imersiva em tecnologias inovadoras. O projeto busca contribuir com o fortalecimento da força de trabalho local, construindo um futuro mais próspero para a região e para o Brasil.
 Aulas ministradas pelos professores especializados da UFMS. Com foco na complementação da capacitação, os alunos terão acesso a mentores das empresas B3, BLK, Neoway e PDtec abordando temas pertinentes na construção da carreira profissional. Além disso, o programa pantanal.dev também contempla lives periódicas sobre o mercado de TI.
 
-# Modúlo Onça Pintada
+### Modúlo Onça Pintada
 
 Detecção de Fraude; Introdução a Mineração de Dados; Pré-Processamento e Transformação de Dados; Visualização dos Dados; Revisão de Aprendizado de Máquina;  Agrupamento de Dados;  Avaliação de Algoritmos de Agrupamento de Dados.
 
-Atividade 1: 
 
-Aplicação das técnicas de amostragem vistas em aula (Over/Under-Sampling, SMOTE, Borderline-SMOTE e ADASYN) e avaliar o impacto na base de dados do detecção de fraudes em cartões de créditos com o algoritmo de classificação 3-NN.
